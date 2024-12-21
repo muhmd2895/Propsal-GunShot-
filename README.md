@@ -1,2 +1,5 @@
 # Propsal-GunShot-
 Design, Identification and Implementation of an acoustic-based Gunshot Detection and Localization System (September-2023)
+
+1.	Introduction 
+Gun violence is a prevalent issue globally, posing a significant threat to public safety and necessitating urgent solutions. The timely and accurate detection as well as localization of gunshot incidents is a critical component in enhancing law enforcement's ability to respond swiftly and efficiently. Acoustic-based gunshot detection and localization systems have emerged as promising tools for addressing this challenge. By utilizing acoustic sensors and advanced technologies, such systems can automatically detect and pinpoint the origin of gunshot sounds. This proposal for the design and implementation of an Acoustic-Based Gunshot Detection and Localization System, integrating signal processing algorithms and machine learning techniques. Through this innovative approach, we strive to contribute to the mitigation of gun violence and the enhancement of public safety.
